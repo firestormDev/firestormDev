@@ -8,24 +8,7 @@ Systems, e-commerces, applications and process automation (RPA), constantly seek
 
 Innovative and efficient solutions. 
 </span>
-
-<br />
-<br />
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firestormDev&show_icons=true&locale=en" alt="firestormDev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firestormDev&" alt="firestormDev" /></p>
-
-## 🌏 **CONNECT WITH ME**
-
-<a href="https://www.instagram.com/luiz_tinti"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-
-<a  href="https://www.linkedin.com/luiztinti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-
-<br />
+<br><br><br>
 
 ## 🕸️ **WEB DEV**
 
